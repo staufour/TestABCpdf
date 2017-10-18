@@ -33,8 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ABCpdf, Version=10.1.2.5, Culture=neutral, PublicKeyToken=a7a0b3f5184f2169, processorArchitecture=MSIL">
-      <HintPath>..\packages\ABCpdf.10.1.2.5\lib\net40\ABCpdf.dll</HintPath>
+    <Reference Include="ABCpdf, Version=10.1.2.6, Culture=neutral, PublicKeyToken=a7a0b3f5184f2169, processorArchitecture=MSIL">
+      <HintPath>..\packages\ABCpdf.10.1.2.6\lib\net40\ABCpdf.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
@@ -58,27 +58,27 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\packages\ABCpdf.10.1.2.5\bin\3DGlue10-32.dll">
+    <Content Include="..\packages\ABCpdf.10.1.2.6\bin\3DGlue10-32.dll">
       <Link>3DGlue10-32.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\packages\ABCpdf.10.1.2.5\bin\3DGlue10-64.dll">
+    <Content Include="..\packages\ABCpdf.10.1.2.6\bin\3DGlue10-64.dll">
       <Link>3DGlue10-64.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\packages\ABCpdf.10.1.2.5\bin\ABCpdf10-32.dll">
+    <Content Include="..\packages\ABCpdf.10.1.2.6\bin\ABCpdf10-32.dll">
       <Link>ABCpdf10-32.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\packages\ABCpdf.10.1.2.5\bin\ABCpdf10-64.dll">
+    <Content Include="..\packages\ABCpdf.10.1.2.6\bin\ABCpdf10-64.dll">
       <Link>ABCpdf10-64.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\packages\ABCpdf.10.1.2.5\bin\PrintHook32.dll">
+    <Content Include="..\packages\ABCpdf.10.1.2.6\bin\PrintHook32.dll">
       <Link>PrintHook32.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\packages\ABCpdf.10.1.2.5\bin\PrintHook64.dll">
+    <Content Include="..\packages\ABCpdf.10.1.2.6\bin\PrintHook64.dll">
       <Link>PrintHook64.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
